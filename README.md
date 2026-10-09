@@ -14,6 +14,7 @@ Asegúrate de tener estos archivos en la misma carpeta:
 - ListaReproduccion.java
 - Nodo.java
 - Main.java
+
 ##Desde un IDE (nosotros trabajamos con IntelliJ IDEA 2026.2.3)
 Descarga la carpeta del proyecto
 Abre la carpeta del proyecto en tu entorno de desarrollo preferido.
