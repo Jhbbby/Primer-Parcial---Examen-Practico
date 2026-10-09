@@ -15,16 +15,16 @@ Asegúrate de tener estos archivos en la misma carpeta:
 - Nodo.java
 - Main.java
 
-##Desde un IDE (nosotros trabajamos con IntelliJ IDEA 2026.2.3)
+## Desde un IDE (nosotros trabajamos con IntelliJ IDEA 2026.2.3)
 
-Descarga la carpeta del proyecto
-Abre la carpeta del proyecto en tu entorno de desarrollo preferido.
+1.-Descarga la carpeta del proyecto
+2.-Abre la carpeta del proyecto en tu entorno de desarrollo preferido.
 
-Abre el archivo Main.java .
+3.-Abre el archivo Main.java .
 
-Presiona el botón Run (ícono de reproducir) o utiliza el atajo de teclado correspondiente de tu IDE para ejecutar la aplicación en la consola integrada.
+4.-Presiona el botón Run (ícono de reproducir) o utiliza el atajo de teclado correspondiente de tu IDE para ejecutar la aplicación en la consola integrada.
 
-Realizado por:
+## Realizado por:
 
 Garcia Herrera Raul
 
